@@ -6,7 +6,7 @@ The Pacific Northwest offers one of America's richest railroad storytelling land
 
 ## Completion Tracker
 
-**Topics Completed: 5/32**
+**Topics Completed: 7/32**
 
 To mark a topic as complete, change `[ ]` to `[x]` when the blog post is published.
 
@@ -19,7 +19,7 @@ On March 1, 1910, passengers and crew trapped for nine days by blizzards died wh
 
 **Sources:** [HistoryLink.org](https://historylink.org), [Slate](https://slate.com)
 
-### 2. [ ] "Three Days Apart: The Twin Railroad Avalanche Disasters of 1910"
+### 2. [x] "Three Days Apart: The Twin Railroad Avalanche Disasters of 1910"
 Wellington wasn't alone—just 72 hours later, an avalanche at Rogers Pass in British Columbia killed 63 more railroad workers (many unnamed Japanese immigrants), making early March 1910 the deadliest week in North American railroad history.
 
 **Sources:** [Wikipedia](https://wikipedia.org), [The Inlander](https://www.inlander.com)
@@ -29,7 +29,7 @@ When James J. Hill and E.H. Harriman built competing railroads up Oregon's Desch
 
 **Source:** WordPress railroad history blogs
 
-### 4. [ ] "Massacre at Deep Creek: Oregon's Forgotten Slaughter of 34 Chinese Miners"
+### 4. [x] "Massacre at Deep Creek: Oregon's Forgotten Slaughter of 34 Chinese Miners"
 In 1887, a gang of horse thieves and teenagers murdered 34 Chinese gold miners in Hells Canyon—a crime hidden for over a century until a county clerk discovered trial documents locked in an old safe in 1995.
 
 ---

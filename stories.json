@@ -1,0 +1,61 @@
+{
+  "updated": "2026-06-23",
+  "stories": [
+    {
+      "topic_num": 4,
+      "slug": "deep-creek-massacre",
+      "headline": "Massacre at Deep Creek: The Slaughter the Canyon Hid for a Century",
+      "dek": "In 1887, at least 31 Chinese gold miners were murdered in Hells Canyon. No one was ever convicted.",
+      "date": "2026-06-23",
+      "thumb": "images/deep-creek-massacre-hero.png"
+    },
+    {
+      "topic_num": 2,
+      "slug": "rogers-pass-twin-avalanche",
+      "headline": "Three Days Apart: The Twin Railroad Avalanches of 1910",
+      "dek": "Seventy-two hours after Wellington, the Selkirks took 58 more men \u2014 the deadliest week the high iron ever knew.",
+      "date": "2026-06-16",
+      "thumb": "images/rogers-pass-twin-avalanche-hero.png"
+    },
+    {
+      "topic_num": 1,
+      "slug": "wellington-avalanche",
+      "headline": "White Death at Wellington",
+      "dek": "March 1, 1910 \u2014 an avalanche swept two Great Northern trains into a canyon, killing 96. The deadliest avalanche in U.S. history.",
+      "date": "2026-02-20",
+      "thumb": "images/wellington-avalanche-hero.png"
+    },
+    {
+      "topic_num": 3,
+      "slug": "deschutes-canyon-railroad-war",
+      "headline": "The Deschutes Canyon Railroad War",
+      "dek": "Dynamite, sharpshooters, and hand-to-hand combat as two railroad titans warred up Oregon's Deschutes Canyon.",
+      "date": "2026-02-18",
+      "thumb": "images/deschutes-canyon-railroad-war-hero.png"
+    },
+    {
+      "topic_num": 9,
+      "slug": "john-stevens-marias-pass",
+      "headline": "The Night He Walked Alone: John F. Stevens' Discovery of Marias Pass",
+      "dek": "Alone in a Montana blizzard, John F. Stevens found the pass that completed a transcontinental dream.",
+      "date": "2026-02-16",
+      "thumb": "images/john-stevens-marias-pass-hero.png"
+    },
+    {
+      "topic_num": 7,
+      "slug": "stampede-pass",
+      "headline": "Stampede Pass: The $1,000 Race Through the Mountain",
+      "dek": "Two crews bored a mountain from opposite sides, racing for a $1,000 prize and the future of Puget Sound.",
+      "date": "2026-02-14",
+      "thumb": "images/stampede-pass-hero.png"
+    },
+    {
+      "topic_num": 22,
+      "slug": "great-big-baked-potato",
+      "headline": "The Great Big Baked Potato",
+      "dek": "How the Northern Pacific turned an Idaho spud into the most famous meal on American rails.",
+      "date": "2026-02-12",
+      "thumb": "images/great-big-baked-potato-hero.png"
+    }
+  ]
+}

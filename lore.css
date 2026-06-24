@@ -1,0 +1,181 @@
+/* Train Lore — shared style
+   Black background, white text, Times-like serif, clean frontier styling.
+   Used by index.html (depot board) and every /stories/*.html page. */
+
+:root {
+  --bg: #0a0a0a;
+  --ink: #f4f1ea;        /* warm white */
+  --ink-dim: #b9b3a7;    /* muted text */
+  --rule: #2a2a2a;       /* hairlines */
+  --brass: #c2a14d;      /* western accent — brass/lantern */
+  --brass-dim: #8c7634;
+  --maxw: 760px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Times New Roman", Times, Georgia, serif;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+  font-size: 19px;
+}
+
+.wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 48px 24px 96px;
+}
+
+/* ---- masthead ---- */
+.masthead {
+  text-align: center;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 22px;
+  margin-bottom: 40px;
+}
+.masthead a { color: inherit; text-decoration: none; }
+.masthead .title {
+  font-size: 2.1em;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0;
+  font-weight: normal;
+}
+.masthead .sub {
+  color: var(--brass);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-size: 0.72em;
+  margin-top: 10px;
+}
+
+/* ---- article ---- */
+article h1 {
+  font-size: 2.4em;
+  line-height: 1.15;
+  margin: 0 0 0.2em;
+  font-weight: normal;
+}
+.byline {
+  color: var(--ink-dim);
+  font-style: italic;
+  font-size: 0.95em;
+  margin-bottom: 2em;
+}
+.byline .dateline { color: var(--brass); font-style: normal; letter-spacing: 0.08em; }
+
+article h2 {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin: 1.8em 0 0.4em;
+  color: var(--ink);
+}
+article p { margin: 0 0 1.1em; }
+
+article a { color: var(--brass); text-decoration: none; border-bottom: 1px solid var(--brass-dim); }
+article a:hover { color: var(--ink); border-color: var(--ink); }
+
+blockquote {
+  border-left: 3px solid var(--brass);
+  margin: 1.6em 0;
+  padding: 0.2em 0 0.2em 1.4em;
+  font-style: italic;
+  color: var(--ink-dim);
+  font-size: 1.12em;
+}
+
+hr { border: none; border-top: 1px solid var(--rule); margin: 2.4em 0; }
+
+/* ---- featured image + placeholder ---- */
+.featured {
+  width: 100%;
+  margin: 0 0 2em;
+  border: 1px solid var(--rule);
+}
+.img-placeholder {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  border: 1px dashed var(--brass-dim);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--brass-dim);
+  font-style: italic;
+  letter-spacing: 0.08em;
+  margin: 0 0 2em;
+  text-align: center;
+  padding: 1em;
+}
+figure { margin: 2em 0; }
+figure img { width: 100%; border: 1px solid var(--rule); }
+figcaption { color: var(--ink-dim); font-style: italic; font-size: 0.9em; margin-top: 0.5em; text-align: center; }
+
+/* ---- "what really happened" factual sidebar ---- */
+.record {
+  border: 1px solid var(--rule);
+  background: #121212;
+  padding: 18px 22px;
+  margin: 2.4em 0;
+}
+.record h3 {
+  margin: 0 0 0.5em;
+  font-weight: normal;
+  font-size: 0.78em;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--brass);
+}
+.record p { color: var(--ink-dim); font-size: 0.96em; margin-bottom: 0.6em; }
+.record p:last-child { margin-bottom: 0; }
+
+/* ---- sources ---- */
+.sources { font-size: 0.92em; color: var(--ink-dim); }
+.sources h3 {
+  font-weight: normal; font-size: 0.78em; letter-spacing: 0.22em;
+  text-transform: uppercase; color: var(--brass); margin-bottom: 0.6em;
+}
+.sources ul { list-style: none; padding: 0; margin: 0; }
+.sources li { margin-bottom: 0.4em; }
+
+/* ---- related tales (cross-links) ---- */
+.related { margin-top: 2.4em; }
+.related h3 {
+  font-weight: normal; font-size: 0.78em; letter-spacing: 0.22em;
+  text-transform: uppercase; color: var(--brass); margin-bottom: 0.6em;
+}
+.related a { display: block; color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule); padding: 0.5em 0; }
+.related a:hover { color: var(--brass); }
+
+/* ---- depot board (index) ---- */
+.board { border-top: 1px solid var(--rule); }
+.board .entry {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 20px;
+  align-items: center;
+  border-bottom: 1px solid var(--rule);
+  padding: 20px 0;
+  text-decoration: none;
+  color: var(--ink);
+}
+.board .entry:hover .headline { color: var(--brass); }
+.board .thumb { width: 120px; aspect-ratio: 3 / 2; object-fit: cover; border: 1px solid var(--rule); background: #121212; }
+.board .thumb.placeholder { display: flex; align-items: center; justify-content: center; color: var(--brass-dim); font-size: 0.7em; font-style: italic; }
+.board .meta .num { color: var(--brass); letter-spacing: 0.18em; font-size: 0.7em; text-transform: uppercase; }
+.board .meta .headline { font-size: 1.3em; line-height: 1.2; margin: 0.15em 0; }
+.board .meta .dek { color: var(--ink-dim); font-size: 0.92em; }
+.board .meta .date { color: var(--ink-dim); font-size: 0.78em; letter-spacing: 0.06em; margin-top: 0.3em; }
+
+footer { text-align: center; color: var(--ink-dim); font-size: 0.82em; margin-top: 64px; border-top: 1px solid var(--rule); padding-top: 22px; letter-spacing: 0.06em; }
+
+@media (max-width: 560px) {
+  body { font-size: 17px; }
+  .board .entry { grid-template-columns: 84px 1fr; gap: 14px; }
+  .board .thumb { width: 84px; }
+}
