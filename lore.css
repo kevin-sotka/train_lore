@@ -40,6 +40,17 @@ body {
   margin-bottom: 40px;
 }
 .masthead a { color: inherit; text-decoration: none; }
+.masthead .lockup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.masthead .brand-icon {
+  width: 56px;
+  height: 56px;
+  flex: 0 0 auto;
+}
 .masthead .title {
   font-size: 2.1em;
   letter-spacing: 0.14em;
