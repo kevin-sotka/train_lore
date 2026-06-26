@@ -54,7 +54,13 @@ page = f'''<!DOCTYPE html>
 <meta name="theme-color" content="#0a0a0a">
 <link rel="stylesheet" href="lore.css">
 </head>
-<body>
+<body class="home">
+<div class="bg-video" aria-hidden="true">
+  <video autoplay muted loop playsinline preload="auto" poster="video/bg-poster.jpg">
+    <source src="video/bg.webm" type="video/webm">
+    <source src="video/bg.mp4" type="video/mp4">
+  </video>
+</div>
 <div class="wrap">
 
   <header class="masthead">

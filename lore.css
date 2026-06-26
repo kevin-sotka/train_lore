@@ -27,6 +27,8 @@ body {
 }
 
 .wrap {
+  position: relative;
+  z-index: 1;
   max-width: var(--maxw);
   margin: 0 auto;
   padding: 48px 24px 96px;
@@ -201,4 +203,36 @@ footer { text-align: center; color: var(--ink-dim); font-size: 0.82em; margin-to
   body { font-size: 17px; }
   .board .entry { grid-template-columns: 84px 1fr; gap: 14px; }
   .board .thumb { width: 84px; }
+}
+
+/* ---- video background (homepage only) ---- */
+.bg-video {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background: var(--bg);
+}
+.bg-video video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+  opacity: 0.5;        /* dimmed so text stays readable */
+}
+/* dark veil over the video to keep contrast high */
+.bg-video::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 10, 10, 0.45);
+}
+@media (prefers-reduced-motion: reduce) {
+  .bg-video video { display: none; }   /* poster/still bg shows instead */
 }
