@@ -39,18 +39,20 @@ body {
   padding-bottom: 22px;
   margin-bottom: 40px;
 }
-.masthead a { color: inherit; text-decoration: none; }
+.masthead a { color: inherit; text-decoration: none; display: inline-block; }
 .masthead .lockup {
-  display: flex;
+  display: inline-flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   gap: 18px;
 }
 .masthead .brand-icon {
-  width: auto;
-  height: 3.4em;          /* ~= title + subtitle stacked height */
+  width: 72px;
+  height: 72px;
   flex: 0 0 auto;
-  border-radius: 6px;
+  border-radius: 8px;
+  display: block;
 }
 .masthead .wordmark {
   display: flex;
@@ -59,7 +61,8 @@ body {
   text-align: left;
 }
 .masthead .title {
-  font-size: 2.1em;
+  display: block;
+  font-size: 40px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   margin: 0;
@@ -67,10 +70,11 @@ body {
   font-weight: normal;
 }
 .masthead .sub {
+  display: block;
   color: var(--brass);
   letter-spacing: 0.3em;
   text-transform: uppercase;
-  font-size: 0.72em;
+  font-size: 13px;
   margin-top: 8px;
 }
 
