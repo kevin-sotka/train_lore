@@ -17,6 +17,24 @@ GH_REPO="train_lore"
 
 cd "$REPO"
 
+# --- stale-lock guard --------------------------------------------------------
+# A git process that crashes mid-commit can leave .git/index.lock behind. With
+# `set -e`, the very next run dies at `git add` and every run after it does too,
+# silently freezing the site (this once went unnoticed for a month). This job is
+# the only scheduled writer to this repo, so a lock older than 2 minutes is
+# certainly stale: clear it. A lock younger than that might be a live git
+# operation, so skip this run and try again next time rather than clobber it.
+LOCK="$REPO/.git/index.lock"
+if [ -e "$LOCK" ]; then
+  if [ -n "$(find "$LOCK" -mmin +2 2>/dev/null)" ]; then
+    echo "$(date '+%Y-%m-%d %H:%M') stale index.lock (>2 min old): removing it"
+    rm -f "$LOCK"
+  else
+    echo "$(date '+%Y-%m-%d %H:%M') fresh index.lock present — another git process may be active; skipping this run"
+    exit 0
+  fi
+fi
+
 # Nothing staged/changed? Exit quietly.
 if [ -z "$(git status --porcelain)" ]; then
   echo "$(date '+%Y-%m-%d %H:%M') no changes — nothing to push"
