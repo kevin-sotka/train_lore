@@ -96,6 +96,57 @@ slug: `great-big-baked-potato`
   > reds and golds, a touch of whimsy. Tabletop miniature look, shallow depth of field,
   > slightly oversaturated, visible scenery texture. 3:2 landscape.
 
+## Tale No. 5 — Conquering the Cascades: The Eight-Mile Tunnel That Answered Wellington (1929)
+slug: `conquering-the-cascade-tunnel`
+
+- [ ] **hero** → `conquering-the-cascade-tunnel-hero.png` (png)
+  > Model-railroad diorama of the new Cascade Tunnel west portal under Stevens Pass,
+  > Washington, 1929. A miniature stone-arched tunnel mouth cut into a granite Cascade
+  > mountainside, a Great Northern steam locomotive emerging from the dark bore trailing a
+  > plume of smoke, tiny painted construction laborers with drills and a muck cart on fresh
+  > track, snowy evergreen slopes climbing high above the low portal. Warm electric work-light
+  > glow spilling from the tunnel against cold blue mountain shadow. Tabletop miniature look,
+  > shallow depth of field, slightly oversaturated, visible scenery texture. 3:2 landscape.
+
+
+## Tale No. 6 — The Switchback Era: When Trains Traveled 13 Miles to Move 3 (1893)
+slug: `the-switchback-era`
+
+- [ ] **hero** → `the-switchback-era-hero.png` (png)
+  > Model-railroad diorama of the Great Northern switchbacks climbing Stevens Pass, Cascade
+  > Range, 1893. A miniature steam train zigzagging up a steep evergreen mountainside on
+  > stacked stub tracks and dead-end spur switchbacks, one leg of track above another, tiny
+  > painted brakemen throwing a switch on a snowy shelf, plumes of engine smoke against tall
+  > dark firs. Patchy snow, cold blue mountain light, a sense of a train working desperately
+  > hard to gain height. Tabletop miniature look, shallow depth of field, slightly
+  > oversaturated, visible scenery texture. 3:2 landscape.
+
+## Tale No. 31 — Two Trains, One Track: The Wreck That Invented Modern Management (1841)
+slug: `two-trains-one-track`
+
+- [ ] **hero** → `two-trains-one-track-hero.png` (png)
+  > Model-railroad diorama of two 1840s wood-burning locomotives meeting head-on on a
+  > single-track blind curve beside a small New England village, October 1841. Two tiny
+  > painted early steam trains converging on one line of rail between low autumn hills,
+  > splintered wooden coaches, a white church steeple and clapboard houses in the distance,
+  > drifting smoke and scattered debris. Dramatic low-angle morning light, muted fall
+  > colors, a sense of dread and inevitability. Tabletop miniature look, shallow depth of
+  > field, slightly desaturated, visible scenery texture. 3:2 landscape.
+
+## Tale No. 8 — The Columbia River Gorge: One River, Two Railroads, Two Titans (1908)
+slug: `columbia-gorge-two-railroads`
+
+- [ ] **hero** → `columbia-gorge-two-railroads-hero.png` (png)
+  > Model-railroad diorama of the Columbia River Gorge in 1908, a wide steel-blue river
+  > running between towering basalt cliffs with the Cascade forests dark above. Two tiny
+  > painted steam trains face each other across the water, one hugging the Washington north
+  > bank on a fresh rock shelf, the other on the Oregon south bank, both trailing plumes of
+  > smoke along a low water-level grade. A small early truss bridge just beginning to reach
+  > across the river in the distance, miniature graders and a steam shovel biting into the
+  > north-bank rock. Golden late-afternoon Gorge light, wind-riffled water, a sense of two
+  > empires racing along one river. Tabletop miniature look, shallow depth of field, slightly
+  > oversaturated, visible scenery texture. 3:2 landscape.
+
 <!-- TEMPLATE for the weekly job to copy below this line:
 
 ## Tale No. <N> — <Title> (<year>)

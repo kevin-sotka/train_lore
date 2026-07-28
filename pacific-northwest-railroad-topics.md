@@ -6,7 +6,7 @@ The Pacific Northwest offers one of America's richest railroad storytelling land
 
 ## Completion Tracker
 
-**Topics Completed: 7/32**
+**Topics Completed: 10/32**
 
 To mark a topic as complete, change `[ ]` to `[x]` when the blog post is published.
 
@@ -36,12 +36,12 @@ In 1887, a gang of horse thieves and teenagers murdered 34 Chinese gold miners i
 
 ## Engineering Marvels
 
-### 5. [ ] "Conquering the Cascades: The 8-Mile Tunnel That Changed Everything"
+### 5. [x] "Conquering the Cascades: The 8-Mile Tunnel That Changed Everything"
 The 7.8-mile Cascade Tunnel—built through solid granite in just three years with workers attacking from 11 faces simultaneously—opened in 1929 as the longest railroad tunnel in the Western Hemisphere, with east and west bores meeting off by only one foot.
 
 **Sources:** [Wikipedia](https://wikipedia.org), [American Rails](https://american-rails.com), [HistoryLink.org](https://historylink.org), [ASCE](https://asce.org), [Filson Historical Society](https://filsonhistorical.org)
 
-### 6. [ ] "The Switchback Era: When Trains Traveled 13 Miles to Move 3"
+### 6. [x] "The Switchback Era: When Trains Traveled 13 Miles to Move 3"
 Before tunnels existed, trains conquered the Cascades through terrifying systems of switchbacks with grades up to 5.6%—zigzagging up mountains, stopping at each switchback to reverse direction, a testament to early railroad determination.
 
 **Sources:** [Wikipedia](https://wikipedia.org), [PNWC-NRHS](https://pnwc-nrhs.org)
@@ -51,7 +51,7 @@ When the Northern Pacific's Stampede Tunnel broke through on May 3, 1888, worker
 
 **Source:** [HistoryLink.org](https://historylink.org)
 
-### 8. [ ] "The Columbia River Gorge: One River, Two Railroads, Two Titans"
+### 8. [x] "The Columbia River Gorge: One River, Two Railroads, Two Titans"
 The only navigable passage through the Cascades features railroads on both banks—the result of legendary rivalry between Hill and Harriman—with 31+ freight trains daily still thundering through what remains one of America's busiest and most scenic freight corridors.
 
 **Source:** Washington State sources

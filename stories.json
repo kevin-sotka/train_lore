@@ -1,6 +1,38 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-07-21",
   "stories": [
+    {
+      "topic_num": 8,
+      "slug": "columbia-gorge-two-railroads",
+      "headline": "The Columbia River Gorge: One River, Two Railroads, Two Titans",
+      "dek": "The only water-level door through the Cascades, and two railroad kings raced to own both banks of it.",
+      "date": "2026-07-21",
+      "thumb": "images/columbia-gorge-two-railroads-hero.png"
+    },
+    {
+      "topic_num": 31,
+      "slug": "two-trains-one-track",
+      "headline": "Two Trains, One Track: The Wreck That Invented Modern Management",
+      "dek": "A head-on collision on a single Massachusetts track in 1841 gave us the modern org chart. The AI boom is about to test it.",
+      "date": "2026-07-15",
+      "thumb": "images/two-trains-one-track-hero.png"
+    },
+    {
+      "topic_num": 6,
+      "slug": "the-switchback-era",
+      "headline": "The Switchback Era: When Trains Traveled 13 Miles to Move 3",
+      "dek": "Before the tunnel, the Great Northern climbed Stevens Pass on eight switchbacks, backing over the summit at four percent.",
+      "date": "2026-07-12",
+      "thumb": "images/the-switchback-era-hero.png"
+    },
+    {
+      "topic_num": 5,
+      "slug": "conquering-the-cascade-tunnel",
+      "headline": "Conquering the Cascades: The Eight-Mile Tunnel That Answered Wellington",
+      "dek": "Bored 7.8 miles through granite in three years, the 1929 Cascade Tunnel took Great Northern's trains down off the killing slopes for good.",
+      "date": "2026-06-28",
+      "thumb": "images/conquering-the-cascade-tunnel-hero.png"
+    },
     {
       "topic_num": 4,
       "slug": "deep-creek-massacre",

@@ -90,6 +90,7 @@ Handles: article selection, HTML parsing, Substack API draft creation, publish c
 - Audience: curious non-experts — history that sounds like a great story told at a bar
 - Tone: engaged, slightly irreverent, backed by solid sourcing
 - Length: 800–1,100 words typical
+- No em-dashes: never use the em-dash (—) in article prose. Use commas, parentheses, colons, or separate sentences instead.
 
 ## Author
 
