@@ -1,6 +1,70 @@
 {
-  "updated": "2026-07-21",
+  "updated": "2026-09-27",
   "stories": [
+    {
+      "topic_num": 17,
+      "slug": "city-of-destiny-vs-emerald-city",
+      "headline": "The City of Destiny vs. The Emerald City: How a Telegram Changed Northwest History",
+      "dek": "A telegram named Tacoma the terminus in 1873 and Seattle took it about as well as you'd expect, then spent thirty years proving the railroad wrong.",
+      "date": "2026-09-27",
+      "thumb": "images/city-of-destiny-vs-emerald-city-hero.png"
+    },
+    {
+      "topic_num": 16,
+      "slug": "yakama-land-two-cities",
+      "headline": "When the Railroad Came for Yakama Land: Broken Treaties and the Birth of Two Cities",
+      "dek": "A promise made to Chief Kamiakin in 1853 didn't survive the season, and thirty years later the same railroad picked up a whole town and carried it four miles north.",
+      "date": "2026-09-20",
+      "thumb": "images/yakama-land-two-cities-hero.png"
+    },
+    {
+      "topic_num": 15,
+      "slug": "night-they-drove-out-chinatown",
+      "headline": "The Night They Drove Out Chinatown: Seattle's 1886 Anti-Chinese Riots",
+      "dek": "A mob of 1,500 rounded up Seattle's Chinese residents for forced deportation in February 1886, three months after Tacoma showed the coast how it was done.",
+      "date": "2026-09-13",
+      "thumb": "images/night-they-drove-out-chinatown-hero.png"
+    },
+    {
+      "topic_num": 14,
+      "slug": "chinese-workers-northern-pacific",
+      "headline": "The Builders History Forgot: Chinese Workers of the Northern Pacific",
+      "dek": "Two-thirds of the crews that built the western line were Chinese. They closed the last gap in Montana, and the country left them out of the painting.",
+      "date": "2026-09-06",
+      "thumb": "images/chinese-workers-northern-pacific-hero.png"
+    },
+    {
+      "topic_num": 13,
+      "slug": "great-northern-strike-1894",
+      "headline": "When Labor Beat the Empire Builder: The Great Northern Strike of 1894",
+      "dek": "For eighteen days in April 1894 a ten-month-old union stopped James J. Hill's railroad cold and won back nearly every dollar he had cut.",
+      "date": "2026-08-30",
+      "thumb": "images/great-northern-strike-1894-hero.png"
+    },
+    {
+      "topic_num": 12,
+      "slug": "empire-builder-vs-railroad-king",
+      "headline": "Empire Builder vs. Railroad King: The Battle That Nearly Crashed Wall Street",
+      "dek": "Hill and Harriman fought for the Northern Pacific until it hit $1,000 a share and dragged the whole market down with it.",
+      "date": "2026-08-16",
+      "thumb": "images/empire-builder-vs-railroad-king-hero.png"
+    },
+    {
+      "topic_num": 11,
+      "slug": "henry-villard-rise-and-fall",
+      "headline": "The Blind Pool: The Rise and Fall of Henry Villard",
+      "dek": "He raised millions without telling anyone what he was buying, took the Northern Pacific by ambush, and lost it four months after the golden spike.",
+      "date": "2026-08-09",
+      "thumb": "images/henry-villard-rise-and-fall-hero.png"
+    },
+    {
+      "topic_num": 10,
+      "slug": "james-j-hill-empire-builder",
+      "headline": "The One-Eyed Empire Builder: James J. Hill and the Railroad That Never Went Broke",
+      "dek": "Half blind and broke at eighteen, he laid the only transcontinental built without public money, and the only one that never went bankrupt.",
+      "date": "2026-08-02",
+      "thumb": "images/james-j-hill-empire-builder-hero.png"
+    },
     {
       "topic_num": 8,
       "slug": "columbia-gorge-two-railroads",

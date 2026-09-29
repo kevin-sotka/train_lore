@@ -6,7 +6,7 @@ The Pacific Northwest offers one of America's richest railroad storytelling land
 
 ## Completion Tracker
 
-**Topics Completed: 10/32**
+**Topics Completed: 18/32**
 
 To mark a topic as complete, change `[ ]` to `[x]` when the blog post is published.
 
@@ -65,17 +65,17 @@ The self-taught engineer who found the "lost" pass through the Rockies did so in
 
 **Sources:** [PBS](https://pbs.org), [Docslib](https://docslib.org), [Encyclopedia Britannica](https://britannica.com)
 
-### 10. [ ] "James J. Hill: The One-Eyed Empire Builder Who Never Lost"
+### 10. [x] "James J. Hill: The One-Eyed Empire Builder Who Never Lost"
 A Canadian immigrant blinded in one eye as a child built the Great Northern Railway from St. Paul to Seattle—**the only transcontinental without government subsidies** and the only one never to go bankrupt—while settling tens of thousands of immigrants along his lines.
 
 **Sources:** [Wikipedia](https://wikipedia.org), [HistoryLink.org](https://historylink.org)
 
-### 11. [ ] "The Rise and Fall of Henry Villard: From Civil War Reporter to Railroad Emperor"
+### 11. [x] "The Rise and Fall of Henry Villard: From Civil War Reporter to Railroad Emperor"
 The German immigrant who interviewed Abraham Lincoln raised a mysterious "$20 million blind pool" and completed the Northern Pacific—only to receive devastating telegrams announcing his companies' collapse while celebrating his triumph in Seattle.
 
 **Sources:** [Wikipedia](https://wikipedia.org), [Oregon Encyclopedia](https://oregonencyclopedia.org), [HistoryLink.org](https://historylink.org)
 
-### 12. [ ] "Empire Builder vs. Railroad King: The Battle That Nearly Crashed Wall Street"
+### 12. [x] "Empire Builder vs. Railroad King: The Battle That Nearly Crashed Wall Street"
 When Hill and Harriman fought for control of Northern Pacific in 1901, the stock rocketed from $110 to $1,000 in 17 hours, triggering a market panic and eventually Theodore Roosevelt's trust-busting revolution.
 
 **Source:** [Minnesota Historical Society](https://mnhs.org)
@@ -84,29 +84,29 @@ When Hill and Harriman fought for control of Northern Pacific in 1901, the stock
 
 ## Labor History and Immigrant Workers
 
-### 13. [ ] "When Labor Beat the Empire Builder: The 1894 Great Northern Strike"
+### 13. [x] "When Labor Beat the Empire Builder: The 1894 Great Northern Strike"
 Eugene V. Debs and railroad workers achieved a rare labor victory, humbling James J. Hill and winning back $146,500 in monthly wages after just 18 days—a success that led directly to the disastrous Pullman Strike months later.
 
-### 14. [ ] "The Builders History Forgot: Chinese Workers of the Northern Pacific"
+### 14. [x] "The Builders History Forgot: Chinese Workers of the Northern Pacific"
 An estimated 15,000-17,000 Chinese workers built two-thirds of the Northern Pacific through the Pacific Northwest, earning half the wages of white workers while doing the most dangerous jobs—their contributions marked only by place names like "China Curve" scattered across the region.
 
 **Source:** [Rails to Trails Conservancy](https://railstotrails.org)
 
-### 15. [ ] "The Night They Drove Out Chinatown: Seattle's 1886 Anti-Chinese Riots"
+### 15. [x] "The Night They Drove Out Chinatown: Seattle's 1886 Anti-Chinese Riots"
 A mob of 1,500 forcibly rounded up every Chinese person in Seattle for deportation while federal troops rushed to intervene—just months after Tacoma's city-led expulsion became a model for anti-Chinese violence across the West.
 
 ---
 
 ## Impact on Native Communities
 
-### 16. [ ] "When the Railroad Came for Yakama Land: Broken Treaties and the Birth of Two Cities"
+### 16. [x] "When the Railroad Came for Yakama Land: Broken Treaties and the Birth of Two Cities"
 The Northern Pacific violated the 1855 Treaty with the Yakama Nation, sparked the Yakima Wars, and later moved an entire town four miles when residents refused railroad demands—with two young girls greasing the tracks to try to stop the exodus.
 
 ---
 
 ## Urban Development and Railroad Towns
 
-### 17. [ ] "The City of Destiny vs. The Emerald City: How a Telegram Changed Northwest History"
+### 17. [x] "The City of Destiny vs. The Emerald City: How a Telegram Changed Northwest History"
 When Northern Pacific chose Tacoma over Seattle as its terminus in 1873, devastated Seattle citizens responded by building their own railroad—and within two decades, the "loser" had outgrown the "chosen one."
 
 **Source:** [HistoryLink.org](https://historylink.org)

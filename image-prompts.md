@@ -147,6 +147,127 @@ slug: `columbia-gorge-two-railroads`
   > empires racing along one river. Tabletop miniature look, shallow depth of field, slightly
   > oversaturated, visible scenery texture. 3:2 landscape.
 
+## Tale No. 10 — The One-Eyed Empire Builder: James J. Hill and the Railroad That Never Went Broke (1893)
+slug: `james-j-hill-empire-builder`
+
+- [ ] **hero** → `james-j-hill-empire-builder-hero.png` (png)
+  > Model-railroad diorama of the Great Northern Railway's last-spike moment at Scenic,
+  > Washington, January 1893. A miniature Great Northern steam locomotive halted on fresh
+  > snow-dusted track in a narrow Cascade valley of tall dark firs, tiny painted officials in
+  > long coats and top hats gathered around the final rail joint while shovel gangs in rough
+  > wool watch from the cut bank. A survey transit on a tripod, a telegraph pole line running
+  > west toward Puget Sound, wood smoke and engine steam hanging in cold winter air.
+  > Low golden winter light raking across blue snow shadow, a sense of a private empire
+  > reaching salt water on its own money. Tabletop miniature look, shallow depth of field,
+  > slightly oversaturated, visible scenery texture. 3:2 landscape.
+
+
+## Tale No. 11 — The Blind Pool: The Rise and Fall of Henry Villard (1883)
+slug: `henry-villard-rise-and-fall`
+
+- [ ] **hero** → `henry-villard-rise-and-fall-hero.png` (png)
+  > Model-railroad diorama of the Northern Pacific last-spike celebration at Gold Creek,
+  > Montana Territory, September 1883. A miniature 1880s steam locomotive stopped on fresh
+  > sagebrush-flat track in a wide brown valley under low Montana hills, a crowded grandstand
+  > of tiny painted figures in frock coats and top hats, bunting and flags snapping, excursion
+  > cars strung out behind and a single frock-coated financier standing slightly apart at the
+  > rail end holding a fistful of telegrams. Dusty golden late-summer light, long shadows, a
+  > brass band and cheering crowd on one side and one small still figure on the other, a sense
+  > of triumph already going wrong. Tabletop miniature look, shallow depth of field, slightly
+  > oversaturated, visible scenery texture. 3:2 landscape.
+
+## Tale No. 12 — Empire Builder vs. Railroad King: The Battle That Nearly Crashed Wall Street (1901)
+slug: `empire-builder-vs-railroad-king`
+
+- [ ] **hero** → `empire-builder-vs-railroad-king-hero.png` (png)
+  > Model-railroad diorama of a tug-of-war over one railroad, May 1901. A single miniature
+  > Northern Pacific steam locomotive and its string of freight cars stranded mid-scene on a
+  > short length of track laid across a banker's desk of green baize, tiny painted figures in
+  > frock coats and silk hats crowding in from both ends: one knot of financiers hauling on a
+  > rope tied to the pilot, another knot hauling from the rear platform, ticker tape and torn
+  > stock certificates drifting like snow over the ballast, a brass stock ticker and a
+  > telegraph key looming at diorama scale in the background. Dark wood-paneled Wall Street
+  > light with one hard shaft of window sun on the locomotive, cigar haze, a sense of a
+  > mountain railroad being fought over by men who never saw a mountain. Tabletop miniature
+  > look, shallow depth of field, slightly oversaturated, visible scenery texture. 3:2 landscape.
+
+
+## Tale No. 13 — When Labor Beat the Empire Builder: The Great Northern Strike of 1894 (1894)
+slug: `great-northern-strike-1894`
+
+- [ ] **hero** → `great-northern-strike-1894-hero.png` (png)
+  > Model-railroad diorama of a struck railroad yard in St. Paul, Minnesota, April 1894. A
+  > miniature Great Northern steam locomotive standing cold and dead on the ready track with
+  > no smoke at the stack, a long string of idle boxcars behind it, and a crowd of tiny painted
+  > figures in flat caps, overalls and rough wool coats massed quietly along the rails: shopmen,
+  > brakemen and switchmen holding their ground rather than shouting, a hand-lettered union
+  > banner over the roundhouse door. Wet spring mud between the ties, puddles reflecting a grey
+  > overcast sky, a distant frock-coated official watching from a depot platform. Cool damp
+  > northern light, low contrast with one warm lantern glow in the roundhouse, a sense of
+  > enormous machinery held still by ordinary men. Tabletop miniature look, shallow depth of
+  > field, slightly oversaturated, visible scenery texture. 3:2 landscape.
+
+
+## Tale No. 14 — The Builders History Forgot: Chinese Workers of the Northern Pacific (1883)
+slug: `chinese-workers-northern-pacific`
+
+- [ ] **hero** → `chinese-workers-northern-pacific-hero.png` (png)
+  > Model-railroad diorama of a Northern Pacific grading camp in the Montana Territory
+  > high country, summer 1883. Tiny painted figures in blue cotton jackets and wide woven
+  > straw hats working a raw cut in a sagebrush hillside with picks, shovels and single
+  > wheelbarrows, hand-laid ties and fresh rail creeping toward the camera, a cluster of
+  > canvas tents and a cook's fire with a steaming kettle set off to one side, a miniature
+  > 1880s wood-burning steam locomotive with a balloon stack waiting at the railhead behind
+  > them. Hot dusty gold late-afternoon light, long raking shadows off every figure, drifting
+  > rock dust, an enormous empty valley opening beyond the grade so the crew reads small
+  > against the country they are building. Tabletop miniature look, shallow depth of field,
+  > slightly oversaturated, visible scenery texture. 3:2 landscape.
+
+
+## Tale No. 15 — The Night They Drove Out Chinatown: Seattle's 1886 Anti-Chinese Riots (1886)
+slug: `night-they-drove-out-chinatown`
+
+- [ ] **hero** → `night-they-drove-out-chinatown-hero.png` (png)
+  > Model-railroad diorama of a waterfront dock scene in Seattle, February 1886. A miniature
+  > steamship berthed at a wooden pier stacked with trunks, bundles and household goods, tiny
+  > painted figures in dark winter coats and derby hats forming a dense crowd along the
+  > planking, a smaller cluster of figures in Chinese quilted jackets and queues huddled near
+  > the gangway with their belongings, a few uniformed militia figures with rifles held
+  > horizontal trying to hold a line between them. Cold gray overcast light, wet plank
+  > reflections, coal smoke drifting from the steamer's stack, distant mill buildings and a
+  > forest of ship masts behind. Tabletop miniature look, shallow depth of field, slightly
+  > oversaturated, visible scenery texture. 3:2 landscape.
+
+## Tale No. 16 — When the Railroad Came for Yakama Land: Broken Treaties and the Birth of Two Cities (1884)
+slug: `yakama-land-two-cities`
+
+- [ ] **hero** → `yakama-land-two-cities-hero.png` (png)
+  > Model-railroad diorama of a whole 1880s frontier town literally on the move through the
+  > Yakima Valley, spring 1885. A miniature wood-frame hotel and false-front storefronts sit
+  > jacked up on log rollers and timber skids, tiny painted teams of horses and painted figures
+  > in shirtsleeves straining at ropes and pry-bars to haul the buildings north across open
+  > sagebrush flats, a narrow dirt track already worn into the ground behind them. A thin
+  > miniature Northern Pacific rail line runs parallel in the middle distance with a small
+  > steam locomotive idling. Distant snow-capped Cascades on the horizon, warm dusty late-
+  > afternoon light, long shadows, a sense of an entire town in transit. Tabletop miniature
+  > look, shallow depth of field, slightly oversaturated, visible scenery texture. 3:2
+  > landscape.
+
+## Tale No. 17 — The City of Destiny vs. The Emerald City: How a Telegram Changed Northwest History (1873)
+slug: `city-of-destiny-vs-emerald-city`
+
+- [ ] **hero** → `city-of-destiny-vs-emerald-city-hero.png` (png)
+  > Model-railroad diorama of a small 1870s sawmill office in Seattle, July 1873. A tiny
+  > painted figure in a frock coat stands reading a scrap of yellow telegraph paper aloud to a
+  > crowd of miniature townsfolk in shirtsleeves and bonnets packed shoulder to shoulder around
+  > him, faces caught mid-reaction, a telegraph key and spooled wire on a rough plank desk
+  > beside a coal-oil lantern. Sawdust drifted across the floorboards, a stack of raw lumber
+  > and a half-built rail spur visible through an open mill door, distant evergreen hills and a
+  > glimpse of a steamship mast beyond the water. Warm lantern-lit interior against cool grey
+  > daylight through the doorway, a sense of a whole town's fortune turning on one sheet of
+  > paper. Tabletop miniature look, shallow depth of field, slightly oversaturated, visible
+  > scenery texture. 3:2 landscape.
+
 <!-- TEMPLATE for the weekly job to copy below this line:
 
 ## Tale No. <N> — <Title> (<year>)
