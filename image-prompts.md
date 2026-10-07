@@ -268,6 +268,18 @@ slug: `city-of-destiny-vs-emerald-city`
   > paper. Tabletop miniature look, shallow depth of field, slightly oversaturated, visible
   > scenery texture. 3:2 landscape.
 
+## Tale No. 18 — Hillyard: The Railroad Town Built by an Empire Builder (1892)
+slug: `hillyard-hills-yard`
+
+- [ ] **hero** → `hillyard-hills-yard-hero.png` (png)
+  > Model-railroad diorama of the Great Northern locomotive shops at Hillyard, Spokane, 1927.
+  > A miniature brick erecting shop with a big arched door glows orange from within, a freshly
+  > built Mallet steam locomotive being rolled out onto a transfer table by tiny painted
+  > machinists in grease-stained overalls, a crane and smoking stacks behind, rows of small
+  > frame workers' houses stretching off across dry prairie. A coal-oil lantern on a post in
+  > the foreground, distant pines and a dusky sky. Tabletop miniature look, shallow depth of
+  > field, slightly oversaturated, visible scenery texture. 3:2 landscape.
+
 <!-- TEMPLATE for the weekly job to copy below this line:
 
 ## Tale No. <N> — <Title> (<year>)

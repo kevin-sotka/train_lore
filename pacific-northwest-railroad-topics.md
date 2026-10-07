@@ -6,7 +6,7 @@ The Pacific Northwest offers one of America's richest railroad storytelling land
 
 ## Completion Tracker
 
-**Topics Completed: 18/32**
+**Topics Completed: 19/32**
 
 To mark a topic as complete, change `[ ]` to `[x]` when the blog post is published.
 
@@ -111,7 +111,7 @@ When Northern Pacific chose Tacoma over Seattle as its terminus in 1873, devasta
 
 **Source:** [HistoryLink.org](https://historylink.org)
 
-### 18. [ ] "Hillyard: The Railroad Town Built by an Empire Builder"
+### 18. [x] "Hillyard: The Railroad Town Built by an Empire Builder"
 James J. Hill created a company town northeast of Spokane that workers called "Hill's Yard" (the name stuck despite his objections)—birthplace of the world's most powerful steam locomotives in 1927, now seeking revival after the shops closed in 1982.
 
 **Source:** [Wikipedia](https://wikipedia.org)

@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-10-04",
   "stories": [
+    {
+      "topic_num": 18,
+      "slug": "hillyard-hills-yard",
+      "headline": "Hillyard: The Railroad Town Built by an Empire Builder",
+      "dek": "A prairie town took the name Hill's Yard whether Jim Hill liked it or not, and for ninety years its shops built and mended the engines that ran the Great Northern.",
+      "date": "2026-10-04",
+      "thumb": "images/hillyard-hills-yard-hero.png"
+    },
     {
       "topic_num": 17,
       "slug": "city-of-destiny-vs-emerald-city",
