@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-11",
   "stories": [
+    {
+      "topic_num": 19,
+      "slug": "cathedral-of-steam-king-street-station",
+      "headline": "Cathedral of Steam: King Street Station's $55 Million Resurrection",
+      "dek": "A 1906 depot with a Venetian tower, a ceiling hidden for 45 years behind acoustic tile, and a city that bought it for ten dollars.",
+      "date": "2026-10-11",
+      "thumb": "images/cathedral-of-steam-king-street-station-hero.png"
+    },
     {
       "topic_num": 18,
       "slug": "hillyard-hills-yard",

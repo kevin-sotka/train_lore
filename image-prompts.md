@@ -280,6 +280,18 @@ slug: `hillyard-hills-yard`
   > the foreground, distant pines and a dusky sky. Tabletop miniature look, shallow depth of
   > field, slightly oversaturated, visible scenery texture. 3:2 landscape.
 
+## Tale No. 19 — Cathedral of Steam: King Street Station's $55 Million Resurrection (1906)
+slug: `cathedral-of-steam-king-street-station`
+
+- [ ] **hero** → `cathedral-of-steam-king-street-station-hero.png` (png)
+  > Model-railroad diorama of Seattle's King Street Station at dusk, 1906. A miniature brick
+  > depot with a tall Venetian-style clock tower glows gold from its arched windows, tiny
+  > painted travelers in long coats and bowler hats crowding the platform beside a Great
+  > Northern steam locomotive trailing white steam, porters with luggage carts, a coal-oil
+  > lantern on a post in the foreground, evergreen hills and Puget Sound haze beyond. Tabletop
+  > miniature look, shallow depth of field, slightly oversaturated, visible scenery texture.
+  > 3:2 landscape.
+
 <!-- TEMPLATE for the weekly job to copy below this line:
 
 ## Tale No. <N> — <Title> (<year>)

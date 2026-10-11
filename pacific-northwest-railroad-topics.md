@@ -6,7 +6,7 @@ The Pacific Northwest offers one of America's richest railroad storytelling land
 
 ## Completion Tracker
 
-**Topics Completed: 19/32**
+**Topics Completed: 20/32**
 
 To mark a topic as complete, change `[ ]` to `[x]` when the blog post is published.
 
@@ -116,7 +116,7 @@ James J. Hill created a company town northeast of Spokane that workers called "H
 
 **Source:** [Wikipedia](https://wikipedia.org)
 
-### 19. [ ] "Cathedral of Steam: King Street Station's $55 Million Resurrection"
+### 19. [x] "Cathedral of Steam: King Street Station's $55 Million Resurrection"
 Seattle's 1906 station—designed by the architects of Grand Central Terminal—was gutted by 1960s "modernization" that hid its 45-foot ornamental ceilings behind acoustic tiles; the city bought it for $10 in 2008 and spent $55 million revealing its hidden grandeur.
 
 ### 20. [ ] "Go By Train: Portland Union Station's 130 Years as Gateway to the Northwest"
