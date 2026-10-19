@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-19",
   "stories": [
+    {
+      "topic_num": 20,
+      "slug": "portland-union-station-go-by-train",
+      "headline": "Go By Train: Portland Union Station's 130 Years as Gateway to the Northwest",
+      "dek": "A 150-foot tower, a neon sign switched off in 1971 and relit in 1985, and a depot that outlived the passenger trains it was built for.",
+      "date": "2026-10-19",
+      "thumb": "images/portland-union-station-go-by-train-hero.png"
+    },
     {
       "topic_num": 19,
       "slug": "cathedral-of-steam-king-street-station",

@@ -292,6 +292,17 @@ slug: `cathedral-of-steam-king-street-station`
   > miniature look, shallow depth of field, slightly oversaturated, visible scenery texture.
   > 3:2 landscape.
 
+## Tale No. 20 — Go By Train: Portland Union Station's 130 Years as Gateway to the Northwest (1896)
+slug: `portland-union-station-go-by-train`
+
+- [ ] **hero** → `portland-union-station-go-by-train-hero.png` (png)
+  > Model-railroad diorama of Portland Union Station at dusk. A miniature Romanesque brick depot
+  > with a tall clock tower and glowing blue-and-gold neon "GO BY TRAIN" sign, tiny painted
+  > porters in white jackets and travelers in long coats crowding the platform beside a steam
+  > locomotive trailing white steam, a coal-oil lantern on a post in the foreground, wet brick
+  > street and evergreen hills in the haze. Tabletop miniature look, shallow depth of field,
+  > slightly oversaturated, visible scenery texture. 3:2 landscape.
+
 <!-- TEMPLATE for the weekly job to copy below this line:
 
 ## Tale No. <N> — <Title> (<year>)
