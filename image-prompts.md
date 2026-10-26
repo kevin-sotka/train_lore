@@ -303,6 +303,17 @@ slug: `portland-union-station-go-by-train`
   > street and evergreen hills in the haze. Tabletop miniature look, shallow depth of field,
   > slightly oversaturated, visible scenery texture. 3:2 landscape.
 
+## Tale No. 21 — The Empire Builder: How One Man's Vision Created America's Most Enduring Train (1929)
+slug: `empire-builder-americas-enduring-train`
+
+- [ ] **hero** → `empire-builder-americas-enduring-train-hero.png` (png)
+  > Model-railroad diorama of the Great Northern Empire Builder, 1929. A miniature streamlined-era
+  > passenger train with a green-and-orange steam locomotive trailing white steam, tiny painted
+  > passengers waving from observation car windows, a trackside crowd of farmers and children in
+  > flat caps, a snow-dusted Rocky Mountain ridge and a lodge in the pines behind, a coal-oil
+  > lantern on a post in the foreground. Tabletop miniature look, shallow depth of field,
+  > slightly oversaturated, visible scenery texture. 3:2 landscape.
+
 <!-- TEMPLATE for the weekly job to copy below this line:
 
 ## Tale No. <N> — <Title> (<year>)

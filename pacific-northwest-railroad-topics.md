@@ -6,7 +6,7 @@ The Pacific Northwest offers one of America's richest railroad storytelling land
 
 ## Completion Tracker
 
-**Topics Completed: 21/32**
+**Topics Completed: 22/32**
 
 To mark a topic as complete, change `[ ]` to `[x]` when the blog post is published.
 
@@ -128,7 +128,7 @@ Portland's Romanesque Revival station tells the story of the region through its 
 
 ## Famous Trains and Passenger Service
 
-### 21. [ ] "The Empire Builder: How One Man's Vision Created America's Most Enduring Train"
+### 21. [x] "The Empire Builder: How One Man's Vision Created America's Most Enduring Train"
 James J. Hill's flagship train debuted in 1929—and Amtrak still runs it today on nearly the same route, carrying 338,993 passengers annually with stunning views of Glacier National Park (which Hill lobbied Congress to create).
 
 **Sources:** [Wikipedia](https://wikipedia.org), [American Rails](https://american-rails.com)

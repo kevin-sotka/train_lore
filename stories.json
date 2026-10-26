@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-25",
   "stories": [
+    {
+      "topic_num": 21,
+      "slug": "empire-builder-americas-enduring-train",
+      "headline": "The Empire Builder: How One Man's Vision Created America's Most Enduring Train",
+      "dek": "Named for a man who never rode it, a Chicago-to-Seattle flagship that left on June 10, 1929 and, through diesels, Domes and Amtrak, has never stopped running.",
+      "date": "2026-10-25",
+      "thumb": "images/empire-builder-americas-enduring-train-hero.png"
+    },
     {
       "topic_num": 20,
       "slug": "portland-union-station-go-by-train",
