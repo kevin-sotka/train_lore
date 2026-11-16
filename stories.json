@@ -7,7 +7,9 @@
       "headline": "The Empire Builder: How One Man's Vision Created America's Most Enduring Train",
       "dek": "Named for a man who never rode it, a Chicago-to-Seattle flagship that left on June 10, 1929 and, through diesels, Domes and Amtrak, has never stopped running.",
       "date": "2026-10-25",
-      "thumb": "images/empire-builder-americas-enduring-train-hero.png"
+      "thumb": "images/empire-builder-americas-enduring-train-hero.png",
+      "voice_id": "Rr2hEGqGe4GdbJo9ta2k",
+      "audio": "audio/empire-builder-americas-enduring-train.mp3"
     },
     {
       "topic_num": 20,
@@ -15,7 +17,9 @@
       "headline": "Go By Train: Portland Union Station's 130 Years as Gateway to the Northwest",
       "dek": "A 150-foot tower, a neon sign switched off in 1971 and relit in 1985, and a depot that outlived the passenger trains it was built for.",
       "date": "2026-10-19",
-      "thumb": "images/portland-union-station-go-by-train-hero.png"
+      "thumb": "images/portland-union-station-go-by-train-hero.png",
+      "voice_id": "HJkTIwTKRE1PiQuSYBRV",
+      "audio": "audio/portland-union-station-go-by-train.mp3"
     },
     {
       "topic_num": 19,
@@ -23,7 +27,9 @@
       "headline": "Cathedral of Steam: King Street Station's $55 Million Resurrection",
       "dek": "A 1906 depot with a Venetian tower, a ceiling hidden for 45 years behind acoustic tile, and a city that bought it for ten dollars.",
       "date": "2026-10-11",
-      "thumb": "images/cathedral-of-steam-king-street-station-hero.png"
+      "thumb": "images/cathedral-of-steam-king-street-station-hero.png",
+      "voice_id": "a5zfmqTslZJBP0jutmVY",
+      "audio": "audio/cathedral-of-steam-king-street-station.mp3"
     },
     {
       "topic_num": 18,
@@ -31,7 +37,9 @@
       "headline": "Hillyard: The Railroad Town Built by an Empire Builder",
       "dek": "A prairie town took the name Hill's Yard whether Jim Hill liked it or not, and for ninety years its shops built and mended the engines that ran the Great Northern.",
       "date": "2026-10-04",
-      "thumb": "images/hillyard-hills-yard-hero.png"
+      "thumb": "images/hillyard-hills-yard-hero.png",
+      "voice_id": "H2CgnIux8C0XLWQ97uPA",
+      "audio": "audio/hillyard-hills-yard.mp3"
     },
     {
       "topic_num": 17,
@@ -39,7 +47,9 @@
       "headline": "The City of Destiny vs. The Emerald City: How a Telegram Changed Northwest History",
       "dek": "A telegram named Tacoma the terminus in 1873 and Seattle took it about as well as you'd expect, then spent thirty years proving the railroad wrong.",
       "date": "2026-09-27",
-      "thumb": "images/city-of-destiny-vs-emerald-city-hero.png"
+      "thumb": "images/city-of-destiny-vs-emerald-city-hero.png",
+      "voice_id": "LNV6ahDtkAOqwn1X3R7a",
+      "audio": "audio/city-of-destiny-vs-emerald-city.mp3"
     },
     {
       "topic_num": 16,
@@ -47,7 +57,9 @@
       "headline": "When the Railroad Came for Yakama Land: Broken Treaties and the Birth of Two Cities",
       "dek": "A promise made to Chief Kamiakin in 1853 didn't survive the season, and thirty years later the same railroad picked up a whole town and carried it four miles north.",
       "date": "2026-09-20",
-      "thumb": "images/yakama-land-two-cities-hero.png"
+      "thumb": "images/yakama-land-two-cities-hero.png",
+      "voice_id": "bJ6Nel1LlZx0UKyZhsk0",
+      "audio": "audio/yakama-land-two-cities.mp3"
     },
     {
       "topic_num": 15,
